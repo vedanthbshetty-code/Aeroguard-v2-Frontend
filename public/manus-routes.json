@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "AeroGuard Dashboard" },
+    { "path": "/history", "title": "Sensor History" },
+    { "path": "/insights", "title": "AI Insights" },
+    { "path": "/device", "title": "Device Information" },
+    { "path": "/settings", "title": "Settings" }
+  ]
+}
